@@ -1,0 +1,9 @@
+{
+  "name": "safe-pocket-map-monorepo",
+  "private": true,
+  "scripts": {
+    "setup": "npm install --prefix frontend && npm install --prefix backend",
+    "install:all": "npm run setup",
+    "test:all": "npm test --prefix frontend && npm test --prefix backend"
+  }
+}

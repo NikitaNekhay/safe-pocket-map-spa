@@ -1,0 +1,17 @@
+{
+  "title": "Safe Pocket Map",
+  "jobs": "Empleos",
+  "privacy_title": "Política de privacidad",
+  "privacy_text": "Texto de la política de privacidad.",
+  "cookies_title": "Cookies",
+  "cookies_text": "Texto sobre cookies.",
+  "backlog_title": "Hoja de ruta",
+  "media_title": "Medios",
+  "media_text": "Menciones y medios.",
+  "documentation_title": "Documentación",
+  "documentation_text": "Documentación del producto.",
+  "usecases_title": "Casos de uso",
+  "usecase_citizen": "Navegación local",
+  "usecase_ngo": "Planificación ONG",
+  "usecase_travel": "Seguridad en viajes"
+}
